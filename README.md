@@ -27,12 +27,12 @@ Les paladins peuvent faire les deux grâce à leur mana et leur rage
 >  FileDataSource a faire avec le pattern décorator
 
 - Implementation :
-  - [FileDataSourceInterface.java]()
-  - [FileDataSourceDecorator.java]()
-  - [Encrypt.java]()
-  - [Compress.java]()
+  - [FileDataSourceInterface.java](https://github.com/Di-KaZ/Design_pattern/blob/main/src/main/java/_decorator_/_exercice/FileDataSourceInterface.java)
+  - [FileDataSourceDecorator.java](https://github.com/Di-KaZ/Design_pattern/blob/main/src/main/java/_decorator_/_exercice/FileDataSourceDecorator.java)
+  - [Encrypt.java](https://github.com/Di-KaZ/Design_pattern/blob/main/src/main/java/_decorator_/_exercice/Encrypt.java)
+  - [Compress.java](https://github.com/Di-KaZ/Design_pattern/blob/main/src/main/java/_decorator_/_exercice/Compress.java)
 
-- Utilisation : [Demo.java]()
+- Utilisation : [Demo.java](https://github.com/Di-KaZ/Design_pattern/blob/604d2f13c83017e6d67b228b591d3f535bc099a0/src/main/java/_decorator_/_exercice/Demo.java#L27-L39)
 
 ## Exercice 4
 
