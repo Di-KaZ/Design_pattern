@@ -21,7 +21,7 @@ Les magiciens ne peuvent faire que la magie grâce à leur mana
 Les guerriers ne peuvent utiliser que la force grâce à leur rage
 Les paladins peuvent faire les deux grâce à leur mana et leur rage
 
-![Exo 2 UML](https://github.com/Di-KaZ/Design_pattern/raw/main/Exercice_1.png)
+![Exo 2 UML](https://github.com/Di-KaZ/Design_pattern/raw/main/Exercice_2.png)
 
 ## Exercice 3
 >  FileDataSource a faire avec le pattern décorator
