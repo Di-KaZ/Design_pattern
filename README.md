@@ -24,6 +24,15 @@ Les paladins peuvent faire les deux grâce à leur mana et leur rage
 ![Exo 2 UML](https://github.com/Di-KaZ/Design_pattern/raw/main/Exercice_1.png)
 
 ## Exercice 3
+>  FileDataSource a faire avec le pattern décorator
+
+- Implementation :
+  - [FileDataSourceInterface.java]()
+  - [FileDataSourceDecorator.java]()
+  - [Encrypt.java]()
+  - [Compress.java]()
+
+- Utilisation : [Demo.java]()
 
 ## Exercice 4
 
