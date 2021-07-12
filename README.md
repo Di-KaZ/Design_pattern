@@ -3,18 +3,17 @@
 
 ## Exercice 1
 
-![Exo 1 UML](./Excercice_1.png)
-
+![Exo 1 UML](https://github.com/Di-KaZ/Design_pattern/raw/main/Exercice_1.png)
 
 ## Exercice 2
-![Exo 2 UML](./Excercice_2.png)
+![Exo 2 UML](https://github.com/Di-KaZ/Design_pattern/raw/main/Exercice_1.png)
 
 ## Exercice 3
 
 ## Exercice 4
 
-[Arbre2.java]()
-[Client.java]()
+[Arbre2.java](https://github.com/Di-KaZ/Design_pattern/blob/main/src/main/java/_iterator_/Arbre2.java)
+[Client.java](https://github.com/Di-KaZ/Design_pattern/blob/586deb6bc571289e0221185e10975a41ff9fb8eb/src/main/java/_iterator_/Client.java#L47-L57)
 
 ## Exercice 5
 > Nommer le design pattern à utiliser dans ces cas :
